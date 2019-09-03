@@ -10,8 +10,8 @@ kjlzcgithub 的个人博客
 
 ### 最新
 
-* [fda3f 2a312f sf](http://www.kjlzc.cn/articles/2019/09/01/1567333617643.html)
-* [世界，你好！](http://www.kjlzc.cn/hello-solo)
+* [test](http://blog.kjlzc.cn/articles/2019/09/03/1567510538311.html)
+* [世界，你好！](http://blog.kjlzc.cn/hello-solo)
 
 
 

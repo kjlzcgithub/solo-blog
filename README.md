@@ -10,7 +10,6 @@ kjlzcgithub 的个人博客
 
 ### 最新
 
-* [test](http://blog.kjlzc.cn/articles/2019/09/03/1567510538311.html)
 * [世界，你好！](http://blog.kjlzc.cn/hello-solo)
 
 
